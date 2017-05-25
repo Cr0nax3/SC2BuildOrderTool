@@ -1,0 +1,16 @@
+Allgemein: 
+-Kristalle
+-Vespiengas
+-Dauer
+-Leben
+-Voraussetzungen
+-Aufgabe
+
+Angreifer bzw. Arbeiter abgeleitet (Allgemein):
++ Schaden
++ Vorrat
++ Fernkampf oder Nahkampf
++ Angriffsgeschwindigkeit
++ Stärken und Schwächen
++ Panzerungstyp
++ Fähigkeiten
