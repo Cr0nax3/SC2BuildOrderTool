@@ -29,8 +29,6 @@
 
     End Sub
 
-
-
     'Getter
 
     Public Function getCrystals() As Int16
